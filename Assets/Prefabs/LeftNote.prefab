@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 353773446187268352}
   - component: {fileID: 3554302909833992260}
+  - component: {fileID: -6713616947219545871}
   m_Layer: 0
   m_Name: LeftNote
   m_TagString: Untagged
@@ -75,9 +76,9 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Color: {r: 0.1208188, g: 0.90188676, b: 0.14926408, a: 1}
+  m_SortingOrder: 1
+  m_Sprite: {fileID: -254267079344088968, guid: 3b163361263e3ed40a39fe77e9d3c16d, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -87,3 +88,16 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &-6713616947219545871
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5965508202284915061}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7b2d46d1b4684a13a5c3c7fe3ecf9e5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  assignedTime: 0
