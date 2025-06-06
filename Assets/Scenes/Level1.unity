@@ -1061,7 +1061,7 @@ MonoBehaviour:
   - {fileID: 1670727880}
   - {fileID: 462286170}
   songDelayInSeconds: 0
-  marginOfError: 0.2
+  marginOfError: 0.1
   inputDelayInMilliseconds: 0
   fileLocation: song1.mid
   noteTime: 1
@@ -1367,9 +1367,9 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.7646541, g: 0.8113208, b: 0.15154853, a: 0.83137256}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
