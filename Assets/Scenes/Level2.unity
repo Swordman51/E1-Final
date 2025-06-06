@@ -169,6 +169,7 @@ MonoBehaviour:
   missSFX: {fileID: 1888558651}
   scoreText: {fileID: 1939256680}
   missText: {fileID: 596491291}
+  hitText: {fileID: 0}
 --- !u!1 &215411004
 GameObject:
   m_ObjectHideFlags: 0
@@ -196,8 +197,8 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 52bda2c5a64eec546b9d1941b263b025, type: 3}
-  m_Resource: {fileID: 8300000, guid: 52bda2c5a64eec546b9d1941b263b025, type: 3}
+  m_audioClip: {fileID: 8300000, guid: e13b17c83ec814943aa5899215a2b22e, type: 3}
+  m_Resource: {fileID: 8300000, guid: e13b17c83ec814943aa5899215a2b22e, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -1263,7 +1264,7 @@ MonoBehaviour:
   songDelayInSeconds: 0
   marginOfError: 0.09
   inputDelayInMilliseconds: 0
-  fileLocation: song1.mid
+  fileLocation: song2.mid
   noteTime: 1
   noteSpawnY: 7
   noteTapY: -3
