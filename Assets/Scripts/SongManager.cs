@@ -5,6 +5,7 @@ using Melanchall.DryWetMidi.Core;
 using Melanchall.DryWetMidi.Interaction;
 using System.IO;
 using UnityEngine.Networking;
+using UnityEngine.SceneManagement;
 using System;
 
 public class SongManager : MonoBehaviour
@@ -93,6 +94,8 @@ public class SongManager : MonoBehaviour
 
     void Update()
     {
-        
+        if (!audioSource.isPlaying) {
+            SceneManager.LoadScene("Success");
+        }
     }
 }
