@@ -169,6 +169,7 @@ MonoBehaviour:
   missSFX: {fileID: 1888558651}
   scoreText: {fileID: 1939256680}
   missText: {fileID: 596491291}
+  hitText: {fileID: 0}
 --- !u!1 &215411004
 GameObject:
   m_ObjectHideFlags: 0
@@ -870,7 +871,7 @@ Transform:
   m_GameObject: {fileID: 781926051}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 8.22, y: 0.93, z: 0}
+  m_LocalPosition: {x: 6.82, y: -0.06, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1109,7 +1110,7 @@ Transform:
   m_GameObject: {fileID: 1054438831}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -8.28, y: 0.78, z: 0}
+  m_LocalPosition: {x: -7.2, y: 0.61, z: 0}
   m_LocalScale: {x: 0.30707848, y: 0.30707848, z: 0.30707848}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1768,7 +1769,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -2.6276, y: 2.6107}
+  m_AnchoredPosition: {x: -1.68, y: 2.65}
   m_SizeDelta: {x: 5.9077, y: 3.4767}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &1939256683
